@@ -1,7 +1,7 @@
 {
   "name": "grunt-bower-requirejs-config-generator",
   "description": "A generator of require config file with paths and shims, getting informations from bower.json",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/micheledisalvatore/grunt-bower-requirejs-config-generator",
   "author": {
     "name": "Michele Di Salvatore",
